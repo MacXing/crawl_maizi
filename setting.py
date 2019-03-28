@@ -18,9 +18,9 @@ video_url_path = os.path.dirname(os.path.abspath(__file__)) + r'\resource\video_
 
 # 数据库配置
 db_config = {
-    'host': '192.168.160.36',
+    'host': '127.0.0.1',
     'user': 'root',
-    'password': 'gzxiaoi',
-    'name': 'crawler',
+    'password': 'root',
+    'name': 'xxxx',
     'port': '3306',
 }
